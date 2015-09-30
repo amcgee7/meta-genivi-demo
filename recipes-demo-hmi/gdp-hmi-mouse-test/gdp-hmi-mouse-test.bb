@@ -14,5 +14,5 @@ S = "${WORKDIR}"
 
 do_install() {
     install -d ${D}${bindir}
-    install -m 0555 ${WORKDIR}/hmi-mouse-test.py ${D}${bindir}
+    install -m 0555 ${WORKDIR}/gdp-hmi-mouse-test.py ${D}${bindir}
 }
