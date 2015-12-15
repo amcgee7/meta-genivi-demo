@@ -141,7 +141,7 @@ index 1cc7765..74c5bea 100644
 +            y: 80
 +            height: 688
 +            width: 1024
-+            url: "http://www.google.fr"
++            url: "http://www.google.com"
 +        }
      }
  }
